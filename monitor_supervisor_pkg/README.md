@@ -55,8 +55,14 @@ Run monitor supervisor:
 ros2 run monitor_supervisor_pkg monitor_supervisor_node
 ```
 
-
 ## Videos
+
+### Sim
+[collision_monitor.webm](https://github.com/user-attachments/assets/a2d516bf-82d9-48e7-8483-8687e97a11c2)
+
+
+### Andino
+
 
 
 
